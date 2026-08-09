@@ -1,0 +1,75 @@
+START
+
+Create Scanner
+
+Display CampusTrack
+
+Read student ID
+Read student name
+
+Read age
+WHILE age is less than 16 or greater than 30
+    Read age again
+END WHILE
+
+Display course menu
+Read course choice
+
+WHILE course choice is less than 1 or greater than 3
+    Read course choice again
+END WHILE
+
+Use switch to select course and fee
+
+Read Java marks
+Validate Java marks using WHILE
+
+Read SQL marks
+Validate SQL marks using WHILE
+
+Read Aptitude marks
+Validate Aptitude marks using WHILE
+
+Calculate total
+Calculate average
+
+IF all subjects are 35 or above
+    Result is PASSED
+ELSE
+    Result is FAILED
+END IF
+
+IF result is FAILED
+    Grade is F
+ELSE IF average is 75 or above
+    Grade is A
+ELSE IF average is 60 or above
+    Grade is B
+ELSE IF average is 50 or above
+    Grade is C
+ELSE
+    Grade is D
+END IF
+
+Read attendance
+Validate attendance using WHILE
+
+Use ternary operator for attendance status
+
+Read fee paid
+Validate fee using WHILE
+
+Calculate fee balance
+Use ternary operator for fee status
+
+Check result, attendance and fee
+
+Use ternary operator for final semester status
+
+Display student report
+
+IF semester is not cleared
+    Display each applicable reason
+END IF
+
+STOP
