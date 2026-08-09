@@ -1,0 +1,30 @@
+==================================================
+              STUDENT SEMESTER REPORT
+==================================================
+Student ID          : U03ZB23S0020
+Student Name        : Nisaraga
+Age                 : 20
+Course              : BCA
+
+--------------- ACADEMIC DETAILS -----------------
+Java Marks          : 78
+SQL Marks           : 65
+Aptitude Marks      : 82
+Total Marks         : 225/300
+Average             : 75.00
+Academic Result     : PASSED
+Grade               : A
+
+--------------- ATTENDANCE DETAILS ---------------
+Attendance          : 82.00%
+Attendance Status   : SUFFICIENT
+
+------------------ FEE DETAILS --------------------
+Semester Fee        : ?30000.00
+Fee Paid            : ?30000.00
+Fee Balance         : ?0.00
+Fee Status          : CLEARED
+
+---------------- FINAL STATUS ---------------------
+Semester Status     : SEMESTER CLEARED
+==================================================

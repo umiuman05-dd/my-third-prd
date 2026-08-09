@@ -1,0 +1,30 @@
+==================================================
+              STUDENT SEMESTER REPORT
+==================================================
+Student ID          : U03ZB3S0057
+Student Name        : Uma N
+Age                 : 20
+Course              : B.E/B.Tech
+
+--------------- ACADEMIC DETAILS -----------------
+Java Marks          : 78
+SQL Marks           : 72
+Aptitude Marks      : 65
+Total Marks         : 215/300
+Average             : 71.67
+Academic Result     : PASSED
+Grade               : B
+
+--------------- ATTENDANCE DETAILS ---------------
+Attendance          : 82.00%
+Attendance Status   : SUFFICIENT
+
+------------------ FEE DETAILS --------------------
+Semester Fee        : ?50000.00
+Fee Paid            : ?50000.00
+Fee Balance         : ?0.00
+Fee Status          : CLEARED
+
+---------------- FINAL STATUS ---------------------
+Semester Status     : SEMESTER CLEARED
+==================================================

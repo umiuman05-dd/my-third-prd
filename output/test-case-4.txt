@@ -1,0 +1,34 @@
+==================================================
+              STUDENT SEMESTER REPORT
+==================================================
+Student ID          : STU104
+Student Name        : Kiran
+Age                 : 22
+Course              : B.Sc Computer Science
+
+--------------- ACADEMIC DETAILS -----------------
+Java Marks          : 80
+SQL Marks           : 75
+Aptitude Marks      : 70
+Total Marks         : 225/300
+Average             : 75.00
+Academic Result     : PASSED
+Grade               : A
+
+--------------- ATTENDANCE DETAILS ---------------
+Attendance          : 70.00%
+Attendance Status   : SHORTAGE
+
+------------------ FEE DETAILS --------------------
+Semester Fee        : ?35000.00
+Fee Paid            : ?20000.00
+Fee Balance         : ?15000.00
+Fee Status          : PENDING
+
+---------------- FINAL STATUS ---------------------
+Semester Status     : SEMESTER NOT CLEARED
+
+Reasons:
+- Attendance is below 75%.
+- Semester fee is pending.
+==================================================

@@ -1,0 +1,30 @@
+==================================================
+              STUDENT SEMESTER REPORT
+==================================================
+Student ID          : U03ZB23S0033
+Student Name        : Pavani
+Age                 : 19
+Course              : BCA
+
+--------------- ACADEMIC DETAILS -----------------
+Java Marks          : 35
+SQL Marks           : 35
+Aptitude Marks      : 35
+Total Marks         : 105/300
+Average             : 35.00
+Academic Result     : PASSED
+Grade               : D
+
+--------------- ATTENDANCE DETAILS ---------------
+Attendance          : 75.00%
+Attendance Status   : SUFFICIENT
+
+------------------ FEE DETAILS --------------------
+Semester Fee        : ?30000.00
+Fee Paid            : ?30000.00
+Fee Balance         : ?0.00
+Fee Status          : CLEARED
+
+---------------- FINAL STATUS ---------------------
+Semester Status     : SEMESTER CLEARED
+==================================================

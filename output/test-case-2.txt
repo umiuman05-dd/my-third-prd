@@ -1,0 +1,33 @@
+==================================================
+              STUDENT SEMESTER REPORT
+==================================================
+Student ID          : U0ZB23S0052
+Student Name        : Sushmitha K s
+Age                 : 20
+Course              : B.E/B.Tech
+
+--------------- ACADEMIC DETAILS -----------------
+Java Marks          : 78
+SQL Marks           : 34
+Aptitude Marks      : 65
+Total Marks         : 177/300
+Average             : 59.00
+Academic Result     : FAILED
+Grade               : F
+
+--------------- ATTENDANCE DETAILS ---------------
+Attendance          : 82.00%
+Attendance Status   : SUFFICIENT
+
+------------------ FEE DETAILS --------------------
+Semester Fee        : ?50000.00
+Fee Paid            : ?50000.00
+Fee Balance         : ?0.00
+Fee Status          : CLEARED
+
+---------------- FINAL STATUS ---------------------
+Semester Status     : SEMESTER NOT CLEARED
+
+Reasons:
+- SQL marks are below 35.
+==================================================
